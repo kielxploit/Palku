@@ -117,7 +117,7 @@ const Index = () => {
               className="w-full sm:w-auto"
             >
               <a
-                href="https://discord.gg/your-server"
+                href="https://discord.gg/4u36WkmhAv"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2"
@@ -134,7 +134,7 @@ const Index = () => {
               className="w-full sm:w-auto"
             >
               <a
-                href="https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID"
+                href="https://discord.com/oauth2/authorize?client_id=1290644737501433858"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2"
@@ -305,7 +305,7 @@ const Index = () => {
                 Privacy
               </a>
               <a
-                href="https://discord.gg/your-server"
+                href="https://discord.gg/4u36WkmhAv"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-1"
