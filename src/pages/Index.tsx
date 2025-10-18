@@ -284,7 +284,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-12 px-4 border-t border-border/30">
         <div className="container max-w-6xl mx-auto">
-          <div className="text-center space-y-4">
+          <div className="text-center">
             <p className="text-muted-foreground text-sm">
               © {new Date().getFullYear()} Palku Bypasser • Built by{" "}
               <a
@@ -296,24 +296,6 @@ const Index = () => {
                 k1el.xyz
               </a>
             </p>
-
-            <div className="flex justify-center gap-6">
-              <a
-                href="#privacy"
-                className="text-sm text-muted-foreground hover:text-primary transition-colors"
-              >
-                Privacy
-              </a>
-              <a
-                href="https://discord.gg/4u36WkmhAv"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-1"
-              >
-                Discord
-                <ExternalLink className="w-3 h-3" />
-              </a>
-            </div>
           </div>
         </div>
       </footer>
