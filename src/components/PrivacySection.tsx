@@ -134,9 +134,7 @@ export const PrivacySection = () => {
         <div className="glass-card rounded-2xl p-6 text-center">
           <p className="text-sm text-muted-foreground">
             Questions about our privacy practices? Contact the developer:{" "}
-            <a href="mailto:contact@k1el.xyz" className="text-primary hover:text-secondary transition-colors font-semibold">
-              k1el.xyz
-            </a>
+            <span className="text-primary font-semibold">k1el.xyz</span>
           </p>
         </div>
       </div>
