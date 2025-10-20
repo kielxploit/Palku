@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import logo from "@/assets/logo.png";
 
 // REPLACE WITH YOUR ACTUAL LINKS
-const INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID";
+const INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=1290644737501433858&permissions=8&integration_type=0&scope=bot";
 const SUPPORT_SERVER_LINK = "https://discord.gg/4u36WkmhAv";
 
 export const Hero = () => {
