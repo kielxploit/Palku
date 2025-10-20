@@ -3,7 +3,7 @@ import { MessageCircle, Github, Twitter, Mail } from "lucide-react";
 import logo from "@/assets/logo.png";
 
 // REPLACE WITH YOUR ACTUAL LINKS
-const SUPPORT_SERVER_LINK = "https://discord.gg/YOUR_SERVER";
+const SUPPORT_SERVER_LINK = "https://discord.gg/4u36WkmhAv";
 
 export const Footer = () => {
   return (
