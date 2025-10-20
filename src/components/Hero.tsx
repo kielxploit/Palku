@@ -3,7 +3,7 @@ import logo from "@/assets/logo.png";
 
 // REPLACE WITH YOUR ACTUAL LINKS
 const INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID";
-const SUPPORT_SERVER_LINK = "https://discord.gg/YOUR_SERVER";
+const SUPPORT_SERVER_LINK = "https://discord.gg/4u36WkmhAv";
 
 export const Hero = () => {
   const scrollToContent = () => {
